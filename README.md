@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilevlev&label=Profile%20views&color=0e75b6&style=flat" alt="ilevlev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@v1cc___" target="blank"><img src="https://img.shields.io/twitter/follow/@v1cc___?logo=twitter&style=for-the-badge" alt="@v1cc___" /></a> </p>
+<p align="left"> <a href="https://twitter.com/v1cc___" target="blank"><img src="https://img.shields.io/twitter/follow/v1cc___?logo=twitter&style=for-the-badge" alt="v1cc___" /></a> </p>
 
 - 🌱 I’m currently learning **C# Fundamentals (Softuni)**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@v1cc___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@v1cc___" height="30" width="40" /></a>
+<a href="https://twitter.com/v1cc___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v1cc___" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/viktor-georgiev-179982226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor georgiev" height="30" width="40" /></a>
 <a href="https://discord.gg/jDC9UCvG7v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! ilevlevxDD#3268" height="30" width="40" /></a>
 </p>
