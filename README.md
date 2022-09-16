@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktor Georgiev</h1>
 <h3 align="center">C# Student</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilevlev&label=Profile%20views&color=0e75b6&style=flat" alt="ilevlev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@v1cc___" target="blank"><img src="https://img.shields.io/twitter/follow/@v1cc___?logo=twitter&style=for-the-badge" alt="@v1cc___" /></a> </p>
