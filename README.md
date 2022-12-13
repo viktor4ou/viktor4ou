@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/v1cc___" target="blank"><img src="https://img.shields.io/twitter/follow/v1cc___?logo=twitter&style=for-the-badge" alt="v1cc___" /></a> </p>
 
-- 🌱 I’m currently learning **C# Fundamentals (Softuni)**
+- 🌱 I’m currently learning **C# Advanced (Softuni)**
 
 - 📫 How to reach me **viktorgeorgiev044@gmail.com**
 
