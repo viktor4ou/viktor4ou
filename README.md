@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **diploma work**
 
-- 🌱 I’m currently learning **React,JS,SQL**
+- 🌱 I’m currently learning **C#,React,JS,SQL**
 
 - 💬 Ask me about **C#,Bootstrap,Photoshop**
 
